@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/akash-dubey-1040791a7" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend Developer at interview kickstart**
+- 🔭 I’m currently working as **Frontend Developer at Bolo Live - India's largest streaming platform**
 
 - 🌱 I’m currently learning **React-Native**
 
