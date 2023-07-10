@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale)**
 
-**- D2Scale an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands,|EX-Bolo Live, Interview Kickstart**
+- **Prev Companies(Full Time) - Bolo Live, Interview Kickstart**
+- **Prev Companies(Internship) - GeeksVila Solutions, Jitvhar consultancy services pvt. ltd., Varahas technologies pvt. ltd., & Nova edge software pvt. ltd.**
 
 - 🌱 I’m currently learning **React-Native**
 
