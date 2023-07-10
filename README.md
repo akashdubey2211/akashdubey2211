@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale)**
 
-  
-**- an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands,|EX-Bolo Live, Interview Kickstart**
+**- D2Scale an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands,|EX-Bolo Live, Interview Kickstart**
 
 - 🌱 I’m currently learning **React-Native**
 
