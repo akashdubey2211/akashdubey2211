@@ -11,7 +11,7 @@
 - **Prev Companies(Full Time) - Bolo Live, Interview Kickstart**
 - **Prev Companies(Internship) - GeeksVila Solutions, Jitvhar consultancy services pvt. ltd., Varahas technologies pvt. ltd., & Nova edge software pvt. ltd.**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **React-Native & Backend Frameworks**
 
 - 💬 Ask me about **Frontend and it's related technologies**
 
