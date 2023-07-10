@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dubeyakash145@gmail.com**
 
-- ⚡ Technology **enthusiastic**
+- ⚡ Technology **Enthusiastic**
 
 <div align="center">
 <a href="https://github.com/akashdubey2211" target="_blank">
