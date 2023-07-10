@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/akash-dubey-1040791a7" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale) - an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands
-
- ,   |EX-Bolo Live, Interview Kickstart**
+- 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale) - an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands,|EX-Bolo Live, Interview Kickstart**
 
 - 🌱 I’m currently learning **React-Native**
 
