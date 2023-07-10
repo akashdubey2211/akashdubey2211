@@ -1,12 +1,14 @@
 ![MasterHead](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Akash Dubey</h1>
-<h3 align="center">A full-time frontend developer with having 1.5 year 👨‍💻 also love to solve problems🚀</h3>
+<h3 align="center">A full-time frontend developer with having 2 year 👨‍💻 also love to solve problems🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*m1pQS4WP-_wvl2D7dpQL_w.gif">
 
 
 <p align="left"> <a href="https://linkedin.com/in/akash-dubey-1040791a7" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend Developer at Bolo Live - India's largest streaming platform**
+- 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale) - an E-commerce Centre of Excellence, to drive revenue growth for Digital Brands
+
+ ,   |EX-Bolo Live, Interview Kickstart**
 
 - 🌱 I’m currently learning **React-Native**
 
