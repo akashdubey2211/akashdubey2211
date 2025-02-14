@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://linkedin.com/in/akash-dubey-1040791a7" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> </p>
 
-- 🔭 I’m currently working as **Frontend Developer at Social Beat(D2Scale)**
+- 🔭 I’m currently working as **Software Engineer at Social Beat(D2Scale)**
 
 - **Prev Companies(Full Time) - Bolo Live, Interview Kickstart**
-- **Prev Companies(Internship) - GeeksVila Solutions, Jitvhar consultancy services pvt. ltd., Varahas technologies pvt. ltd., & Nova edge software pvt. ltd.**
+- **Prev Companies(Internship) - GeeksVila Solutions, Jitvhar consultancy services pvt. ltd., Varahas Technologies Pvt. ltd., & Nova Edge Software Pvt. ltd.**
 
 - 🌱 I’m currently learning **React-Native & Backend Frameworks**
 
